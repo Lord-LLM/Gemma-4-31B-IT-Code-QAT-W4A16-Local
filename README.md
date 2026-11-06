@@ -1,4 +1,4 @@
-# 🚀 Gemma 4 Developer Agent
+#  Gemma 4 Developer Agent
 
 ### Building an Autonomous AI Software Engineering Agent
 
@@ -17,7 +17,7 @@ Unlike conventional coding assistants that primarily generate code from isolated
 
 The ultimate goal is to build a reliable developer agent that makes advanced software engineering assistance more accessible, including in resource-constrained and offline environments.
 
-## 🎯 Challenge Objectives
+##  Challenge Objectives
 
 The competition focuses on several important capabilities:
 
@@ -29,7 +29,7 @@ The competition focuses on several important capabilities:
 - **Verification:** Validate proposed changes against relevant tests.
 - **Efficiency:** Complete software engineering tasks within the competition's computational and time constraints.
 
-## 🧠 Proposed Approach
+##  Proposed Approach
 
 The solution is designed around an autonomous agent workflow that decomposes software engineering tasks into manageable stages.
 
@@ -64,7 +64,7 @@ The solution is designed around an autonomous agent workflow that decomposes sof
    - Review the final modifications.
    - Generate and submit the resulting patch through the competition harness.
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The proposed architecture follows an iterative agent-based software engineering pipeline.
 
